@@ -26,7 +26,7 @@
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.8);
+  --theme-transparency: rgba(0, 0, 0, 0.5);
 
   /*
     Home Icon Image
@@ -92,7 +92,7 @@
     Small User Popout
   */
   --small-user-popout-background-image: var(--theme-background-image);
-  --small-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
+  --small-user-popout-background-transparency: rgba(0, 0, 0, 0.4);
   --small-user-popout-background-image-position: center;
 
   /*
@@ -111,12 +111,12 @@
   /*
     Message Box Transparency
   */
-  --message-box-transparency: rgba(0, 0, 0, 0.6);
+  --message-box-transparency: rgba(0, 0, 0, 0.4);
 
   /*
     Embed Background Transparency
   */
-  --embed-background-transparency: rgba(0, 0, 0, 0.6);
+  --embed-background-transparency: rgba(0, 0, 0, 0.4);
 
   /*
     Message Hover Buttons
